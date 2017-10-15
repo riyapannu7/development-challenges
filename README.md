@@ -1,6 +1,7 @@
 # development-challenges
-> A list of development challenges which are fun to implement.
-***
+
+This Repository is a collection of development challenges that will be very fun to implement to learn application development.
+
 
 ## Syntax for writing a new challenge
 
@@ -9,6 +10,7 @@ title : <Title of  the Challenge>
 username : <Your Github Username>
 platform : <mobile, web, desktop, cross, etc.>
 languages : <Languages can be used, multiple languages separate with comma>
+difficulty : easy || medium || hard
 frameworks* : <Include frameworks to be used if any else put None>
 description : <The detailed description of the challenge>
 API* : <Any external API to be used in application>
@@ -25,6 +27,7 @@ title : To Do List Manager
 username : vshelke
 platform : web
 languages : Python3
+difficulty : easy
 frameworks* : Django
 description : Make a simple ToDo list manager which can track your todo's more elegantly.
 API* : None
@@ -38,6 +41,7 @@ username : vshelke
 platform : web
 languages : Python3
 frameworks* : Django
+difficulty : medium
 description : Recommend a list of movies to be watched on the basis of the list of movies the user has previously watched. Basically, A Movie Recommendation System.
 API* : https://www.themoviedb.org/
 database* : PostgreSQL
