@@ -1,6 +1,6 @@
 # development-challenges
 
-This Repository is a collection of development challenges that will be very fun to implement to learn application development. These challenges will be more inclined towards application side rather than general algorithms problems. So, mainly it will include of developing a system for a particular use-case.<br>
+This Repository is a collection of development challenges that will be very fun to implement to learn application development. These challenges will be more inclined towards application side rather than general algorithms problems. So, mainly it will include of developing a system for a particular use-case.<br><br>
 Feel free to put in some PR's and make this list grow. :blush:
 
 
