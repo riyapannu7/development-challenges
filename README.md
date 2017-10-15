@@ -5,18 +5,18 @@
 ## Syntax for writing a new challenge
 
 ***
-title : <Title of  the Challenge>
-username : <Your Github Username>
-platform : <mobile, web, desktop, cross, etc.>
-languages : <Languages can be used, multiple languages separate with comma>
-frameworks* : <Include frameworks to be used if any else put None>
-description : <The detailed description of the challenge>
-API* : <Any external API to be used in application>
-database* : <A specific database to be used or can use any>
-reference* : <Any references on other website or can be link to your own implementation if any>
+title : <Title of  the Challenge>--
+username : <Your Github Username>--
+platform : <mobile, web, desktop, cross, etc.>--
+languages : <Languages can be used, multiple languages separate with comma>--
+frameworks* : <Include frameworks to be used if any else put None>--
+description : <The detailed description of the challenge>--
+API* : <Any external API to be used in application>--
+database* : <A specific database to be used or can use any>--
+reference* : <Any references on other website or can be link to your own implementation if any>--
 ***
 
-\* - NOT Compulsory 
+\* - NOT Compulsory
 
 ## List of development-challenges
 
