@@ -29,7 +29,7 @@ frameworks* : Django
 description : Make a simple ToDo list manager which can track your todo's more elegantly.
 API* : None
 database* : PostgreSQL
-reference* : [To-Doer](http://to-doer.herokuapp.com/), [todoist](https://en.todoist.com/)
+reference* : http://to-doer.herokuapp.com/, https://en.todoist.com/
 ```
 
 ```
@@ -39,7 +39,7 @@ platform : web
 languages : Python3
 frameworks* : Django
 description : Recommend a list of movies to be watched on the basis of the list of movies the user has previously watched. Basically, A Movie Recommendation System.
-API* : [API1](https://www.themoviedb.org/)
+API* : https://www.themoviedb.org/
 database* : PostgreSQL
-reference* : [movietrack](http://movietrack.herokuapp.com/login/)
+reference* : http://movietrack.herokuapp.com/login/
 ```
