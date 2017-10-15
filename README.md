@@ -1,6 +1,6 @@
 # development-challenges
 
-This Repository is a collection of development challenges that will be very fun to implement to learn application development.
+This Repository is a collection of development challenges that will be very fun to implement to learn application development. These challenges will be more inclined towards application side rather than general algorithms problems. So, mainly it will include of developing a system for a particular use-case.
 
 
 ## Syntax for writing a new challenge
